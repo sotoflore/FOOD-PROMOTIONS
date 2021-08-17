@@ -26,6 +26,5 @@ La aplicación guarda información en la base de datos de la misma aplicación, 
  - Correo y contraseña del dueño.
  - ubicación 
 
-[imagen](C:\Clones\FOOD-PROMOTIONS\img)
 
   
